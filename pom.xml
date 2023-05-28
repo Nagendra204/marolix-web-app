@@ -4,7 +4,7 @@
   <groupId>com.marolix</groupId>
   <artifactId>marolix-web-app</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>marolix-web-app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
